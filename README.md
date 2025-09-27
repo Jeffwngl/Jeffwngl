@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jeff, I am from New Zealand currently studying software engineering along with my degree in civil engineering.
+My name is Jeff, I am from New Zealand currently studying software engineering along with civil engineering.
 
 ### Tech Stack
 
