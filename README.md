@@ -16,3 +16,10 @@ My name is Jeff, I am from New Zealand currently studying software engineering a
 - C++
 - Express
 - Svelte
+
+### Interested in these fields...
+
+- Computer Graphics
+- Game Development
+- Physics Engines
+- Music/Audio Software
