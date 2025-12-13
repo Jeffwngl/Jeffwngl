@@ -22,4 +22,4 @@ My name is Jeff, I am from New Zealand currently studying software engineering a
 - Computer Graphics
 - Game Development
 - Music/Audio Software
-- FEA/Modelling
+- Simulation
