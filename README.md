@@ -9,11 +9,11 @@ My name is Jeff, I am from New Zealand currently studying software engineering a
 - Typescript
 - React
 - C
+- C++
 
 ### Currently Learning...
 
 - Rust
-- C++
 - Java
 - Svelte
 
