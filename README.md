@@ -1,7 +1,3 @@
-## Hi there 👋
-
-My name is Jeff, I am from New Zealand currently studying software engineering along with civil engineering.
-
 ### Tech Stack
 
 - Python
@@ -15,6 +11,7 @@ My name is Jeff, I am from New Zealand currently studying software engineering a
 
 - Rust
 - Java
+- Kotlin
 - Svelte
 
 ### Interested in these fields...
