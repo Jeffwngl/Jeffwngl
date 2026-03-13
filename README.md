@@ -13,6 +13,7 @@
 - Java
 - Kotlin
 - Svelte
+- C#
 
 ### Interested in these fields...
 
